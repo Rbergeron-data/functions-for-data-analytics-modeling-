@@ -9,7 +9,7 @@ Created on Mon Jan 19 14:30:37 2026
 
 
 ## 1. setup base info:
-MyKey= "62zuB2YwdHcXfd4IELlMd8TKLcs8g6Mhpe1VaNkJ"
+MyKey= "get your api key from data.gov"
 
 ##**
 base = "https://api.usa.gov/crime/fbi/cde/"
